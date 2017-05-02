@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <math.h>
 #include <time.h>
-// コメントgithub
 
 //#define debug printf("Check\n");
 
